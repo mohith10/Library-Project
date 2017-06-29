@@ -1,0 +1,35 @@
+Hello!
+"UNIVERSTIY LIBRARY MANAGEMENT " is completely developed in C++.
+It include all the basic feature required  a librarian or a student .
+
+
+Features-
+.............................
+
+1. Librarian can either CREATER BOOK RECORDS , VIEW them and even UPDATE them over period.
+2. Student(member) can SEARCH for the desired book.
+
+C++ Concepts-
+................................
+Following C++concepts used while making :
+
+1.Flow Control(Loops)
+2.Decision Making(If,If-Else,Switch)
+3.Structure
+4.File Handling
+5.Functions
+6.Array
+
+Note:
+..........
+
+1.The program has been tested only in Turbo C++ compiler. For smoooth functioning of this  program it is advsed to take followinf steps-
+
+ 	a. Install Turbo c++.(Download from : http://www.softpedia.com/get/Programming/Coding-languages-Compilers/TurboCplusplus-for-Windows-7.shtml)
+	b.Go to the directory where you have installed TURBO C++.
+	c.TurboC++/Disk/TurboC3/Bin
+	d.Paste  the  Project  File (lib_project.cpp)
+	e.Compile the program and Enjoy
+2. I would keep on fixing the bug(if any) and add new features over time.
+
+THANK YOU!
